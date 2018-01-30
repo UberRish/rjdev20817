@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_35873_rss_feed_a.change.appscope.time</name>
+        <read_roles/>
+        <suffix>change.appscope.time</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-03-27 09:18:21</sys_created_on>
+        <sys_id>64bb8c0ddb313200f69ff11ebf9619d9</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>x_35873_rss_feed_a.change.appscope.time</sys_name>
+        <sys_package display_value="RSS Feed App" source="x_35873_rss_feed_a">9647e383db003200f69ff11ebf961963</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RSS Feed App">9647e383db003200f69ff11ebf961963</sys_scope>
+        <sys_update_name>sys_properties_64bb8c0ddb313200f69ff11ebf9619d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-03-27 09:28:17</sys_updated_on>
+        <type>string</type>
+        <value>00:02:58</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=64bb8c0ddb313200f69ff11ebf9619d9"/>
+</record_update>
